@@ -1,6 +1,6 @@
 package com.item01;
 
-public class item01 {
+public class item01Main {
     public static void main(String[] args) {
 
         byte var01 = 5;

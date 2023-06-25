@@ -1,6 +1,6 @@
 package com.item04;
 
-public class item04 {
+public class item04Main {
 
     public static void main(String[] args) {
 

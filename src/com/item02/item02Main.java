@@ -1,7 +1,7 @@
 package com.item02;
 
 
-public class item02 {
+public class item02Main {
 
     public static void main(String[] args) {
 
